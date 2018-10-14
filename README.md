@@ -12,5 +12,20 @@ Jeu en console. Petit projet Java de semestre 2 décalé de DUT Informatique (Na
 * Fights are automatically solved
 
 **Context :** University small project
+
 **Type :** Rogue-like (turn-based)
+
 **Platform :** System console, tested on Windows console
+
+----
+
+## In-game screenshots
+
+![](images/Demonio_1.png)
+![](images/Demonio_2.png)
+![](images/Demonio_3.png)
+![](images/Demonio_4.png)
+![](images/Demonio_5.png)
+![](images/Demonio_6.png)
+![](images/Demonio_7.png)
+![](images/Demonio_8.png)
